@@ -1,4 +1,4 @@
-# GroceryManagment
+# GroceryManagment Using Switch Model
 MIPS Assembly Language Code
 
 INTRODUCTION:
