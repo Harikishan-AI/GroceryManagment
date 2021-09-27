@@ -1,4 +1,4 @@
-# Grocery Managment Using Switch Case
+# Grocery Managment Using Switch Cases
 MIPS Assembly Language Code
 
 INTRODUCTION:
